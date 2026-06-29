@@ -1,7 +1,17 @@
-<h1 align="center">
-Hi 👋, I'm Jawahar Singh
-</h1>
 
+<h1 align="center">
+Hello 👋, I'm Jawahar Lal Singh
+</h1>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:007CF0,100:6A11CB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40"/>
+
+</p>
+<p align="center">
+
+<img width="800" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+</p>
 <h3 align="center">
 Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL • Power BI
 </h3>
