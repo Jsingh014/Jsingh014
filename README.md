@@ -9,7 +9,7 @@ Hello 👋, I'm Jawahar Lal Singh
 </p>
 <p align="center">
 
-<img width="800" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 </p>
 <h3 align="center">
