@@ -24,6 +24,14 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=Jsingh014&label=Profile%20Views&color=00bfff&style=for-the-badge"/>
+
+</p>
+
+
 # 💫 About Me
 
 🎓 B.Tech Computer Science Graduate
@@ -180,13 +188,6 @@ Complex SQL queries using Joins, CTEs, Window Functions and Stored Procedures.
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jsingh014&label=Profile%20Views&color=00bfff&style=for-the-badge"/>
-
-</p>
 
 ---
 
