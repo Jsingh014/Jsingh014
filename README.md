@@ -58,7 +58,7 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,HTML,CSS,JavaScript" />
 </p>
 
 ### Data Analytics
@@ -84,7 +84,7 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,Vercel,Netlify"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
