@@ -4,8 +4,7 @@ Hello 👋, I'm Jawahar Lal Singh
 </h1>
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:007CF0,100:6A11CB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:007CF0,100:6A11CB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40"/>
 </p>
 <p align="center">
 
@@ -22,19 +21,20 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
 <p align="left">
 
 <img src="https://komarev.com/ghpvc/?username=Jsingh014&label=Profile%20Views&color=00bfff&style=for-the-badge"/>
 
-</p>
 
+</p>
 
 # 💫 About Me
 
 🎓 B.Tech Computer Science Graduate
+
+📍Pune,india
 
 📊 Passionate about Data Analytics & Business Intelligence
 
@@ -42,23 +42,30 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 📈 Building dashboards that convert raw data into meaningful insights
 
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 🧠 Exploring Machine Learning & Predictive Analytics
 
-🚀 Looking for opportunities as
+📧 mr.singh859895@gmail.com
 
+🔗 [LinkedIn](https://www.linkedin.com/in/jawahar-lal-singh-0318b9341/)
+
+🚀 Looking for opportunities as
 - Data Analyst
 - Business Analyst
 - MIS Executive
 - Analytics Associate
 
+
 ---
+
 
 # 🚀 Tech Stack
 
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,HTML,CSS,JavaScript" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" />
 </p>
 
 ### Data Analytics
@@ -84,7 +91,7 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,Vercel,Netlify"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
@@ -104,31 +111,11 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 ---
 
-# 💻 Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsingh014&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jsingh014&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jsingh014&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
@@ -150,7 +137,7 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 # 📂 Featured Projects
 
-### 📊 Sales Dashboard
+### 📊 Airbnb Dashboard
 
 Power BI dashboard with KPI cards, trend analysis and interactive visualizations.
 
@@ -162,18 +149,11 @@ Machine Learning classification project using Python & Scikit-Learn.
 
 ---
 
-### 📈 HR Analytics Dashboard
-
-Employee Attrition Analysis using Power BI.
-
----
-
 ### 📊 SQL Data Analysis
 
 Complex SQL queries using Joins, CTEs, Window Functions and Stored Procedures.
 
 ---
-
 # 🌐 Connect with Me
 
 <p>
@@ -186,13 +166,20 @@ Complex SQL queries using Joins, CTEs, Window Functions and Stored Procedures.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://portfolio-link">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
+</a>
+
 </p>
-
-
----
 
 <p align="center">
 
-### ⭐ "Data tells a story. My goal is to transform that story into actionable insights."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6A11CB,50:2575FC,100:00F5FF"/>
 
 </p>
