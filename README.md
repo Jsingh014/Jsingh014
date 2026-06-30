@@ -65,7 +65,9 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,nodejs" />
+
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>  
 </p>
 
 ### Data Analytics
@@ -83,6 +85,17 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 
+<img src="https://img.shields.io/badge/Tensorflow-F2c811?style=for-the-badge&logo=Tensorflow"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+
 </p>
 
 ---
@@ -91,9 +104,13 @@ Turning Data into Decisions 📊 | Data Analytics Enthusiast | Python • SQL �
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,docker,kubernetes,aws"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EmailJS-000000?style=for-the-badge"/>  
 
 </p>
 
@@ -162,13 +179,15 @@ Complex SQL queries using Joins, CTEs, Window Functions and Stored Procedures.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:mr.jsingh014@gmail.com">
+<a href="http://localhost:3000">
+<img src="https://img.shields.io/badge/visit my Portfolio🔗-green?style=for-the-badge"/>
+</a>
+
+<a href="mailto:mr.singh859895@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://portfolio-link">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
-</a>
+
 
 </p>
 
